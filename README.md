@@ -11,5 +11,5 @@ the following 3 part is the process of finding the best model
 2, to compare the model with different subsets of features, which were selected by feature selection based on the Maximal Information Coefficient (MIC).
 3, to compare the model with different subsets of features, which were selected by removing features with low variance.
 4, to compare the model with a different order, which was get by using the Polynomial Curve Fitting method after feature selection
-![image](https://user-images.githubusercontent.com/72032574/171020619-814b343c-7afa-4016-be8a-8dbe323ea49a.png)
+
 
